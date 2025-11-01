@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+     font-family: "Roboto Mono", monospace;
+}
+.header-container{
+    width: 100%;
+    height: 120px;
+    background-color: #1e4c94;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-titulo{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.header-container-logo{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;  /* o space-center*/
+.header-logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    background: #389af9;
+}
+}
