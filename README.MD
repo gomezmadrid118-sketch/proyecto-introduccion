@@ -20,7 +20,7 @@ El diseño se basa en los siguientes principios:
 ## 📂 Estructura de Archivos
 
 El proyecto sigue una organización de carpetas clara para separar los recursos:
-
+```
 proyecto-portafolio/
 ├── index.html
 ├── src/
@@ -37,7 +37,7 @@ proyecto-portafolio/
 │   │   ├── contact.css
 │   └── images/│
 └── README.md
-
+```
 
 ## 🗺️ Arquitectura de Páginas (MPA)
 
